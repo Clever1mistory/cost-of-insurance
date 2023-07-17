@@ -15,8 +15,8 @@ API документация доступна по адресу [http://localhos
 2. Склонируйте репозиторий и перейдите в его директорию.
 
 ```
-git clone <repository_url>
-cd <repository>
+git clone git@github.com:Clever1mistory/cost-of-insurance.git
+cd cost-of-insurance
 ```
 
 3. Загрузите необходимые зависимости с помощью команды:
